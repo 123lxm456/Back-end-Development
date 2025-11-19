@@ -1,0 +1,48 @@
+一、
+了解面向对象编程，学习java基础语法和特性，推荐用书《JAVA从入门到精通》，Swing相关的部分可以不用看
+
+
+二、
+学习Mysql数据库、Spring MVC框架
+推荐:
+【黑马程序员 MySQL数据库入门到精通，从mysql安装到mysql高级、mysql优化全囊括】P1-P39，39以后的内容可以等高境界了再看
+https://www.bilibili.com/video/BV1Kr4y1i7ru/?share_source=copy_web&vd_source=edea59b6cbf97a4664f532f7ab563508
+
+【黑马程序员JavaWeb开发教程，实现javaweb企业开发全流程（涵盖Spring+MyBatis+SpringMVC+SpringBoot等）】从Day4开始看，如果想搭建前端界面，就可以看Day4前的或者选修Web前端
+https://www.bilibili.com/video/BV1m84y1w7Tb/?share_source=copy_web&vd_source=edea59b6cbf97a4664f532f7ab563508
+
+【黑马程序员 MySQL数据库入门到精通，从mysql安装到mysql高级、mysql优化全囊括】39以后的内容
+https://www.bilibili.com/video/BV1Kr4y1i7ru/?share_source=copy_web&vd_source=edea59b6cbf97a4664f532f7ab563508
+
+
+三、
+学习SpringCloud
+推荐:
+【SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式，系统详解springcloud微服务技术栈课程|黑马程序员Java微服务】 ES及以后的可以先不看
+https://www.bilibili.com/video/BV1LQ4y127n4/?share_source=copy_web&vd_source=edea59b6cbf97a4664f532f7ab563508
+
+
+四、
+学习并发编程、JVM
+推荐:
+《JAVA并发编程的艺术》《深入理解JAVA虚拟机(周志明)》，第二本书我看的实体版，所以文件夹中没有其电子版
+
+
+五、
+看面试题，理解其答案和解析，深入探究其原理。
+推荐：
+Java 面试指南 | JavaGuide
+【新版Java面试专题视频教程，java八股文面试全套真题+深度详解（含大厂高频面试真题）】
+https://www.bilibili.com/video/BV1yT411H7YK/?share_source=copy_web&vd_source=edea59b6cbf97a4664f532f7ab563508
+
+
+后边的境界还未探索出来。。。。。。
+
+
+学习一种消息队列(MQ)、Redis
+方法： Leetcode刷题并复盘总结，从Hot100开始
+
+
+方法：阿里云java开发规范、学习设计模式
+推荐：
+《图解设计模式》《Java开发手册华山版》
